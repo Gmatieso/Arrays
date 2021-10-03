@@ -19,7 +19,7 @@ def reverseArray(A):
         start += 1
         stop -+ 1
     return A 
-print(reverseArray(A = [20, 10, 6, 8]))
+print(reverseArray(A = [1, 2, 3, 4]))
 
 
 
